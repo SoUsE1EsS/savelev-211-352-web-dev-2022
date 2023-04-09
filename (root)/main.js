@@ -9,7 +9,7 @@ let selectGuide; // Выбранный гид id
 let globalListAttractions = []; // Весь список дост.
 let experienceFrom, experienceUpTo; // Опыт работы
 let price;
-
+alert("xDDDDDD");
 // Показ уведомлений, взят из Bootstrap5 
 //(https://getbootstrap.com/docs/5.3/components/alerts/)
 function showAlert(error, color) {
